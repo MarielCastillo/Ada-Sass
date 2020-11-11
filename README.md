@@ -2,7 +2,7 @@
 
 📌 Trabajo realizado en el marco de un curso.
 
-🔧 HTML5 - SASS (animacion)
+🔧 HTML5 - SASS (Animación)
 
 💻 Diseño web adaptable - Responsive Design - Media Query 
   
