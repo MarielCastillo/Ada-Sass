@@ -6,7 +6,7 @@
 
 💻 Diseño web adaptable - Responsive Design - Media Query 
   
-🚀 Deploy: https://ada-tp-sass.vercel.app/
+🚀 Deploy en Vercel: https://ada-tp-sass.vercel.app/
 
 ![](https://i.ibb.co/HNbvNrM/Ada.png)
 
